@@ -1,5 +1,5 @@
-local APP_key   =   "e1bfc01fb8fdb15ee85744484d1c35eb"
-local city_id   =   "2778067"
+local APP_key   =   
+local city_id   =   
 
 
 
